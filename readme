@@ -4,3 +4,14 @@ https://confluence.mobis.co.kr/pages/viewpageattachments.action?pageId=606363539
 https://confluence.mobis.co.kr/display/PFS/Helm+Chart+Release
 Platform Framework SolutionPFS-1573
 
+
+Showing some( One Tabular data and if possible, 1 Chart ) data that has been extracted from “Polyspace HTML”.
+Project details screen rework (Trying to align with Argo CD) .
+Adding missing columns on project list screen.
+Removal of setting’s and help menu.
+The other priorities that we would focus on this week are
+Changing font usage.
+Default test data insert script.
+Showing more data from “Polyspace HTML”.
+Overview page will be restructured to show 6 charts mentioned on confluence page .
+
